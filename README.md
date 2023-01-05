@@ -40,11 +40,11 @@ source("./R/language.R")
 **Hipofiz Adenomu**
 
 
-[https://pathologyatlas.github.io/pituitary-adenoma/HE.html](https://pathologyatlas.github.io/pituitary-adenoma/HE.html)
+[https://images.patolojiatlasi.com/pituitary-adenoma/HE.html](https://images.patolojiatlasi.com/pituitary-adenoma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/pituitary-adenoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/pituitary-adenoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -56,11 +56,11 @@ Mikroskopik görüntüleri inceleyin:
 **Pituitary Adenoma**
 
 
-[https://pathologyatlas.github.io/pituitary-adenoma/HE.html](https://pathologyatlas.github.io/pituitary-adenoma/HE.html)
+[https://images.patolojiatlasi.com/pituitary-adenoma/HE.html](https://images.patolojiatlasi.com/pituitary-adenoma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/pituitary-adenoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/pituitary-adenoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
